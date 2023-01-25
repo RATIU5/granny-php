@@ -24,7 +24,8 @@ Next, open your terminal to wherever you installed (cloned) Granny to and run th
 docker-compose up
 ```
 
-(If you are using Linux, this command will need to be installed separately)
+(If you are using Linux, this command will need to be installed separately, and run as
+`docker compose up`)
 
 ## Starting Granny
 
